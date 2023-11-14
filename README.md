@@ -14,3 +14,4 @@ Name | Description |
 | [RunPod](https://www.runpod.io/about) | Cloud GPU compute |
 | [FastChat](https://github.com/lm-sys/FastChat#api) | OpenAI compatible REST APIs for OS LLMs |
 | [LM Studio](https://lmstudio.ai/) | Run LLM locally on laptop |
+| [guidance](https://github.com/guidance-ai/guidance) | A guidance language for controlling large language models |
